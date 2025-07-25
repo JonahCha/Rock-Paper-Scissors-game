@@ -21,7 +21,7 @@ A beginner-friendly command-line Python project that allows users to play the cl
 - Play again feature using a while loop
 
 ## 📷 Screenshot
-![Rock Paper Scissors CLI](screenshot.png)
+![Rock Paper Scissors CLI](rock_paper_scissors.png)
 
 ## 🚀 Run the Game
 ```bash
